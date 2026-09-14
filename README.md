@@ -13,11 +13,10 @@ O fluxo principal da aplicação consiste nas seguintes etapas:
 6. O RH monitora o status geral e acessa o documento final gerado.
 
 ## Tecnologias Utilizadas
-* **Frontend:** React
-* **Backend:** Node.js
+* **Frontend:** React native
+* **Backend:** Node.js e Python
 * **Banco de Dados:** MySQL
 * **Nuvem & Infraestrutura:** AWS
-* **Automação:** Power Automate
 * **Controle de Versão:** GitHub
 
 ## Equipe
